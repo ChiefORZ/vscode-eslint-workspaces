@@ -9,5 +9,7 @@
 			"path": "project-b"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"eslint.nodePath": "project-a/.yarn/sdks"
+	}
 }
