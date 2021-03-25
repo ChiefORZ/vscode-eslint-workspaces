@@ -10,6 +10,6 @@
 		}
 	],
 	"settings": {
-		"eslint.nodePath": "project-a/.yarn/sdks"
+		"eslint.nodePath": ".yarn/sdks"
 	}
 }
